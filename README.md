@@ -1,2 +1,4 @@
 # welcome-To-meta-world
-Hello world program
+Hello world programg
+Greeting = "Welcome to programming world"
+Print(Greeting)
